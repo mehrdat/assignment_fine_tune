@@ -1,0 +1,18 @@
+# Data Manipulation and Machine Learning
+pandas
+numpy
+scikit-learn
+
+# Deep Learning and NLP
+torch
+transformers
+datasets
+accelerate
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Notebook and Utilities
+jupyter
+tqdm
