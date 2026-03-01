@@ -6,3 +6,9 @@ venv/
 .env
 .env.*
 .ipynb_checkpoints/
+
+bert_finetuned/
+finbert_finetuned/
+fine_tuned_*/
+.venv/
+__pycache__/
