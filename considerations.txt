@@ -1,0 +1,10 @@
+Considerations: 
+
+print("tokenizer class:", type(tokenizer))
+print("name_or_path:", getattr(tokenizer, "name_or_path", None))
+print("vocab_size:", getattr(tokenizer, "vocab_size", None))
+print("model_max_length:", getattr(tokenizer, "model_max_length", None))
+print("tokenizer_file:", getattr(tokenizer, "tokenizer_file", None))
+print("special_tokens:", tokenizer.special_tokens_map)
+ 
+ 
