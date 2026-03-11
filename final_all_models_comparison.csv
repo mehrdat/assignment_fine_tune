@@ -1,0 +1,3 @@
+sentiment,text,bert_pred,finbert_pred,gpt_oss_pred
+neutral,The parties have agreed not to disclose the transaction value .,neutral,neutral,neutral
+neutral,"The company also appointed Leif Rosen head of the Special Plate unit which includes the quarto plate units in Degerfors , Sweden , and New Castle , USA , the unit in Willich , Germany , as well as Pressplate and Prefab in Avesta and Plate Service Centre Nordic in Degerfors .",neutral,neutral,neutral
