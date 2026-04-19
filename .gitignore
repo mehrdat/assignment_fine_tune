@@ -12,3 +12,7 @@ finbert_finetuned/
 fine_tuned_*/
 .venv/
 __pycache__/
+*/
+.*/
+!resources/
+!resources/**
